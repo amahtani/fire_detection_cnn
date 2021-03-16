@@ -66,7 +66,7 @@ Original frame (left), Frame after superpixel segmentation (middle), Frame after
 To download and test the supplied code and pre-trained models (with TFLean/OpenCV installed) do:
 
 ```
-$ git clone https://github.com/tobybreckon/fire-detection-cnn.git
+$ git clone git@github.com:amahtani/fire_detection_cnn.git
 $ cd fire-detection-cnn
 $ sh ./download-models.sh
 $ python firenet.py models/test.mp4
